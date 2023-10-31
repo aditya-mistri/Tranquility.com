@@ -1,1 +1,5 @@
 # Tranquility.com
+This is a stress-relieving website project made for the hackathon Appoclypse. This project is under the theme Healthcare. This was our first hackathon.
+
+📃 Description
+"Welcome to Tranquility, your destination for stress relief. Our website offers an array of tools and resources designed to assist you in effectively managing and reducing stress in your daily life. Explore our thoughtfully curated playlists and soothing podcasts, peruse informative articles, and discover valuable tips for mastering stress management techniques. Our aim is to provide you with a comprehensive stress-relief hub, whether you need a brief respite during a hectic workday or a longer relaxation session before bedtime. Feel free to explore our offerings, try out the resources, and reach out to us with any suggestions to enhance your experience. Always remember that prioritizing self-care is just as crucial as attending to your work and projects. Don't hesitate to carve out time for stress relief in your busy schedule."
